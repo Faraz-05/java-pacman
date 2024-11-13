@@ -31,7 +31,8 @@ To play the game, follow these steps:
    - Locate the file named `App.java`.
    - Right-click `App.java` -> `Run As` -> `Java Application`.
 
-The game should start, and you can begin playing Pac-Man right away!
+The game should start, and you can begin playing Pac-Man right away !
+Use your Arroy Keys to play the game !
 
 ## Features
 
